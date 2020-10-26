@@ -1,11 +1,8 @@
-раз два
+one and two
 and third
-<<<<<<< HEAD
 i like it!!!
 
 fff
 ddd
 sad
 
-=======
->>>>>>> parent of 568b8f0 (one lines add or firdt line upgraid)
